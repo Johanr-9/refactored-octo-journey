@@ -4,7 +4,7 @@
   "parameters": {
     "vnetName": {
       "type": "string",
-      "defaultValue": "UrsvikenVnet",
+      "defaultValue": "ProductionVnet",
       "metadata": {
         "description": "VNet name"
       }
